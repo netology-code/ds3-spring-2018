@@ -1,0 +1,55 @@
+1	Собянин	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	2	nsubj	_	_
+2	открыл	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	новый	_	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|fPOS=ADJ++	4	amod	_	_
+4	парк	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|fPOS=NOUN++	2	dobj	_	_
+5	и	_	CONJ	_	fPOS=CONJ++	4	cc	_	_
+6	детскую	_	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|fPOS=ADJ++	7	amod	_	_
+7	площадку	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	4	conj	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+
+1	Артисты	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|fPOS=NOUN++	3	nsubj	_	_
+2	театра	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	1	nmod	_	_
+3	посетят	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+4	Германию	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	3	dobj	_	_
+5	и	_	CONJ	_	fPOS=CONJ++	4	cc	_	_
+6	Швейцарию	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	4	conj	_	_
+7	.	_	PUNCT	.	fPOS=PUNCT++.	3	punct	_	_
+
+1	РЖД	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing|fPOS=NOUN++	2	nsubj	_	_
+2	начнет	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	продавать	_	VERB	_	Aspect=Imp|VerbForm=Inf|fPOS=VERB++	2	xcomp	_	_
+4	билеты	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|fPOS=NOUN++	3	dobj	_	_
+5	за	_	ADP	_	fPOS=ADP++	7	case	_	_
+6	90	_	NUM	_	fPOS=NUM++	7	nummod	_	_
+7	дней	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|fPOS=NOUN++	3	nmod	_	_
+8	до	_	ADP	_	fPOS=ADP++	9	case	_	_
+9	отправления	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|fPOS=NOUN++	7	nmod	_	_
+10	поезда	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	9	dobj	_	_
+11	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+
+1	Минтранс	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	2	nsubj	_	_
+2	запретил	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	провозить	_	VERB	_	Aspect=Imp|VerbForm=Inf|fPOS=VERB++	2	xcomp	_	_
+4	через	_	ADP	_	fPOS=ADP++	6	case	_	_
+5	Крымский	_	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|fPOS=ADJ++	6	amod	_	_
+6	мост	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|fPOS=NOUN++	3	nmod	_	_
+7	оружие	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|fPOS=NOUN++	3	dobj	_	_
+8	и	_	CONJ	_	fPOS=CONJ++	7	cc	_	_
+9	взрывчатку	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	7	conj	_	_
+10	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+
+1	Дональд	_	NOUN	_	Degree=Pos|fPOS=ADV++	3	nsubj	_	_
+2	Трамп	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	1	appos	_	_
+3	едет	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+4	в	_	ADP	_	fPOS=ADP++	5	case	_	_
+5	Польшу	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	3	nmod	_	_
+
+1	Ургант	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	5	nsubj	_	_
+2	в	_	ADP	_	fPOS=ADP++	3	case	_	_
+3	образе	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|fPOS=NOUN++	1	nmod	_	_
+4	принцессы	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|fPOS=NOUN++	3	nmod	_	_
+5	спел	_	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+6	о	_	ADP	_	fPOS=ADP++	8	case	_	_
+7	допинговом	_	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|fPOS=ADJ++	8	amod	_	_
+8	скандале	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|fPOS=NOUN++	5	nmod	_	_
+
