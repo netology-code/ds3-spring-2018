@@ -1,0 +1,13 @@
+[Unit]
+Description=Jupyter Notebook
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/jupyter-notebook
+User=ubuntu
+Group=ubuntu
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
